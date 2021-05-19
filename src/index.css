@@ -2,17 +2,14 @@ html{
   font-size: 62.5%;
   box-sizing: border-box;
 }
-
 body #root{
   height: 100vh;
   margin: 0;
 }
-
 body, input, select, textarea{
   font-size: 1.6rem;
   font-family: Arial, Helvetica, sans-serif;
 }
-
 .grid-container{
   display: grid;
   grid-template-areas: "header"
@@ -22,7 +19,6 @@ body, input, select, textarea{
   grid-template-columns: 1fr;
   height: 100%;
 }
-
 a:hover{
   color: lightcoral;
 }
