@@ -1,7 +1,6 @@
 import React from "react"
 
 function App() {
-  console.log("app")
   return (
     <div class = "grid-container">
       <header>
@@ -18,3 +17,4 @@ function App() {
 }
 
 export default App;
+console.log("app")
