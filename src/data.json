@@ -1,0 +1,92 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "title": "baby short dress",
+            "image": "/images/dress1.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["74", "80", "86", "92", "98"],
+            "price": 26
+        },
+        {
+            "_id": "dress2",
+            "title": "short dress",
+            "image": "/images/dress2.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["92", "98", "104", "104", "110"],
+            "price": 17.99
+        },
+        {
+            "_id": "dress3",
+            "title": "short dress",
+            "image": "/images/dress3.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["92", "98", "104", "104"],
+            "price": 12
+        },
+        {
+            "_id": "dress4",
+            "title": "baby short dress",
+            "image": "/images/dress4.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["62", "68", "74", "80", "86"],
+            "price": 34
+        },
+        {
+            "_id": "dress5",
+            "title": "baby short dress",
+            "image": "/images/dress5.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["86", "92", "98", "104"],
+            "price": 37
+        },
+        {
+            "_id": "dress6",
+            "title": "baby short dress",
+            "image": "/images/dress6.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["62", "68", "74", "80", "86"],
+            "price": 29.99
+        },
+        {
+            "_id": "dress7",
+            "title": "baby short dress",
+            "image": "/images/dress7.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["62", "68", "74", "80", "86"],
+            "price": 15
+        },
+        {
+            "_id": "dress8",
+            "title": "long dress",
+            "image": "/images/dress8.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["92", "98", "104", "104", "110"],
+            "price": 17.99
+        },
+        {
+            "_id": "dress9",
+            "title": "short dress",
+            "image": "/images/dress9.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["92", "98", "104", "104", "110"],
+            "price": 19.99
+        },
+        {
+            "_id": "dress10",
+            "title": "short dress",
+            "image": "/images/dress10.jpg",
+            "description": "short sleeves and 100% cotton",
+            "availablesizes": ["98", "104", "104", "110"],
+            "price": 22.99
+        },
+        {
+            "_id": "dress11",
+            "title": "long dress",
+            "image": "/images/dress11.jpg",
+            "description": "long sleeves and 100% cotton",
+            "availablesizes": [ "86","92", "98", "104", "104", "110"],
+            "price": 19.99
+        }
+    ]
+}
